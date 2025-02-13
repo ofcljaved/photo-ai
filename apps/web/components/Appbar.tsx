@@ -99,5 +99,8 @@ export function Appbar() {
         </motion.div>
       </motion.header>
     </div>
+<<<<<<< HEAD
   );
+=======
+>>>>>>> 9bb9bd0 (fix: hydration error)
 }
